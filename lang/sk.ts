@@ -429,14 +429,6 @@
         <source>Vulkan Yadif spatial check</source>
         <translation>Kontrola priestoru Vulkan Yadif</translation>
     </message>
-    <message>
-        <source>Bottom field first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top field first</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DemuxerThr</name>
@@ -1158,10 +1150,6 @@
         <source>Key bindings settings</source>
         <translation>Nastavenia klávesových skratiek</translation>
     </message>
-    <message>
-        <source>Some key shortcuts are duplicated!</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LastFM</name>
@@ -1304,14 +1292,6 @@
     <message>
         <source>&amp;Pause</source>
         <translation>&amp;Pauza</translation>
-    </message>
-    <message>
-        <source>Next audio stream</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next subtitles stream</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1814,10 +1794,6 @@
         <source>Exclusive mode</source>
         <translation>Výhradný režim</translation>
     </message>
-    <message>
-        <source>Preferred video codec</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ModulesList</name>
@@ -2282,7 +2258,7 @@
         <translation>Zosilnenie</translation>
     </message>
     <message>
-        <source>Primary mouse button on video dock toggles playback</source>
+        <source>Left mouse button on video dock toggles playback</source>
         <translation>Ľavé tlačidlo v okne videa vypína/zapína prehrávanie</translation>
     </message>
     <message>
@@ -2316,10 +2292,6 @@
     <message>
         <source>Partially checked means that there is a delay between click and pausing</source>
         <translation>Čiastočne aktivované znamená, že medzi kliknutím a pozastavením je prestávka</translation>
-    </message>
-    <message>
-        <source>Amplify (no metadata)</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2822,10 +2794,6 @@ QMPlay2 nebude zväčšovať ikony!</translation>
         <source>Audio only</source>
         <translation>Iba zvuk</translation>
     </message>
-    <message>
-        <source>Show related</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SIDPlay</name>
@@ -3173,29 +3141,6 @@ Partially checked doesn&apos;t affect seeking on slider.</source>
     <message>
         <source>Lyrics</source>
         <translation>Text piesne</translation>
-    </message>
-</context>
-<context>
-    <name>Streams</name>
-    <message>
-        <source>&amp;Audio streams</source>
-        <translation>Audio prúdy</translation>
-    </message>
-    <message>
-        <source>&amp;Video streams</source>
-        <translation>Video prúdy</translation>
-    </message>
-    <message>
-        <source>&amp;Subtitles streams</source>
-        <translation>Titulkové prúdy</translation>
-    </message>
-    <message>
-        <source>&amp;Chapters</source>
-        <translation>Kapitoly</translation>
-    </message>
-    <message>
-        <source>&amp;Programs</source>
-        <translation>Programy</translation>
     </message>
 </context>
 <context>
